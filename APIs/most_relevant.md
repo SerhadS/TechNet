@@ -14,7 +14,7 @@
 
    **Required:**
  
-   `userid=[string]` Any string is OK
+   `userid=[string]` Any string is OK <br />
    `word=[string]`   Term to query
 
 * **Data Params**
@@ -26,7 +26,7 @@
   * **Code:** 200 <br />
     **Content:** `{ word : [string], top20 : [(term1_string, rel1_string), ... , (termN_string, relN,string)] }`
     
-    `termK_string : string of Kth top relevant term to query term`
+    `termK_string : string of Kth top relevant term to query term` <br />
     `relN_string : string of relevance of KTh top relevant term to query term`
      
 * **Error Response:**
