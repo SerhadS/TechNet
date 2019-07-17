@@ -36,4 +36,4 @@
 
 * **Sample Call:**
 
-  http://52.221.86.148/api/ideation/concepts/similarity?key1=autonomous_vehicle&key2=blind_spot_detecting
+  `http://52.221.86.148/api/ideation/concepts/similarity?key1=autonomous_vehicle&key2=blind_spot_detecting`
