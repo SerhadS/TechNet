@@ -38,22 +38,22 @@
 
   ```javascript
   $.ajax({
-			url: API_URL_HOST + '/topn',
-			type: "POST",
-			contentType: 'application/json',
-			dataType: 'json',
-			async: true,
-			data: JSON.stringify({"userid":userid, "word": word}),
-			success: function(response) {
-				console.log(response);
+	url: http://52.221.86.148/api/ideation/concepts + '/topn',
+	type: "POST",
+	contentType: 'application/json',
+	dataType: 'json',
+	async: true,
+	data: JSON.stringify({"userid":userid, "word": word}),
+	success: function(response) {
+		console.log(response);
 
-				if (response['error']!=null){
-					return (0)
-				}
-        topN = response['top20'];
-			},
-			error: function() {
-				return (0)
-			}
-	});
+		if (response['error']!=null){
+			return (0)
+		}
+        	topN = response['top20'];
+	},
+	error: function() {
+		return (0)
+	}
+  });
   ```
