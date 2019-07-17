@@ -1,0 +1,1 @@
+This folder includes word embeddings of the terms contained in the vocabulary of Tech-Net. Please refer to vocabulary files under vocabulary folder to find the file and the line that corresponds to a specific term.
