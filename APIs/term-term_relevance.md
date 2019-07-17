@@ -12,8 +12,6 @@
   
 *  **URL Params**
 
-   <_If URL params exist, specify them in accordance with name mentioned in URL section. Separate into optional and required. Document data constraints._> 
-
    **Required:**
  
    `key1=[string]&key2=[string]`
