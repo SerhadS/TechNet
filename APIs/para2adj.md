@@ -26,7 +26,7 @@
   * **Code:** 200 <br />
     **Content:** `{ adjacency : [[0, w12, ..., w1N], ... , [w1N, w2N, ..., 0]], keywords : [term1, ..., termN]}`
     
-    `termK : string of Kth term in the list of terms in the queried paragraph`
+    `termK : string of Kth term in the list of terms in the queried paragraph`<br />
     `wMN : float - quantified relevance between Mth and Nth terms in the list of terms in the queried paragraph`
      
 * **Error Response:**
