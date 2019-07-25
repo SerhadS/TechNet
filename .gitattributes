@@ -1,0 +1,2 @@
+vocab*.tsv filter=lfs diff=lfs merge=lfs -text
+word_embeddings*.txt filter=lfs diff=lfs merge=lfs -text
