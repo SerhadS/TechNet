@@ -6,7 +6,7 @@ Technology Semantic Network (TechNet) is a semantic network that consists of wor
 
 ### Related publications
 
-[1] (Under Revision) Sarica, S., Luo, J., Wood, K.L. (2019). TechNet: Technology Semantic Network Based on Patent Data. https://arxiv.org/abs/1906.00411v3 [cs.IR].
+[1] Sarica, S., Luo, J., Wood, K.L. (2019). TechNet: Technology Semantic Network Based on Patent Data. Expert Systems with Applications. https://doi.org/10.1016/j.eswa.2019.112995.
 
 [2] Sarica, S., Song, B., Low, E., & Luo, J. (2019). Engineering Knowledge Graph for Keyword Discovery in Patent Search. Proceedings of the Design Society: International Conference on Engineering Design, 1(1), 2249-2258. doi:10.1017/dsi.2019.231
 
