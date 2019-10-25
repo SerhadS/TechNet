@@ -1,4 +1,4 @@
-**Paragraph to Adjacency API**
+**Preprocess API**
 ----
   Returns JSON data that includes the preprocessed and word tokenized paragraph
 
