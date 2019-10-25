@@ -33,7 +33,7 @@
   * **Code:** 200 <br />
     **Content:** `{ error : "JSON Error" }`
   * **Code:** 200 <br />
-    **Content:** `{ error : "'error':'Too long! Max word count allowed for this API is 1000'" }`
+    **Content:** `{ error : 'error':'Too long! Max word count allowed for this API is 1000' }`
 * **Sample Call:**
 
   ```javascript
